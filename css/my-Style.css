@@ -1,0 +1,14 @@
+.panel-heading {
+    background-color: cornflowerblue;
+    font-style: italic;
+}
+.panel-footer {
+    background-color: #7c7c80;
+}
+.todo-style {
+    background-color: #4b99ff;
+}
+.my-span {
+    font-size: 15px;
+    color: #7c7c80;
+}
